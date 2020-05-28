@@ -14,7 +14,7 @@
     },
     "devDependencies": {},
     "scripts": {
-        "start": "cd src && node index"
+        "start": "node src/index.js"
     },
     "repository": {
         "type": "git",
